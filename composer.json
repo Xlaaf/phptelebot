@@ -1,0 +1,6 @@
+{
+    "require": {
+        "eleirbag89/telegrambotphp": "^1.3",
+        "skrtdev/novagram": "^1.9"
+    }
+}
