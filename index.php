@@ -1,4 +1,4 @@
-$telegram = new Telegram('YOUR TELEGRAM TOKEN HERE');
+$telegram = new Telegram('1757962462:AAFWUrsHYglkLH64LIKP01PADbIVWoVFuqA');
 
 $req = $telegram->getUpdates();
 
